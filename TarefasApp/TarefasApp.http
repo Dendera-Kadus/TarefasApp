@@ -1,0 +1,6 @@
+@TarefasApp_HostAddress = http://localhost:5203
+
+GET {{TarefasApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
